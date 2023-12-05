@@ -1,5 +1,5 @@
 # Sudoku Supreme App
-Sudoku Supreme app is a beautifully crafted Sudoku game developed using Flutter and Dart. It combines the classic puzzle-solving experience with modern features to provide an enjoyable and challenging gameplay experience. Whether you're a Sudoku enthusiast or a casual gamer, this app offers something for everyone.
+Sudoku Supreme app is a beautifully crafted Sudoku game developed using Flutter/Dart. It combines the classic puzzle-solving experience with modern features to provide an enjoyable and challenging gameplay experience. Whether you're a Sudoku enthusiast or a casual gamer, this app offers something for everyone.
 
 ## Key Features
 
